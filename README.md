@@ -10,7 +10,7 @@ This is a small demo of GO microservice and event sourcinglients never
 
 ### The Circulur Architecture
         ----------------------
-       |        Client            |
+       |        Client        |
         ----------------------
          |                |
          |                |
